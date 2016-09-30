@@ -7,7 +7,7 @@ onmessage = function(event) {
       'Who took my rice?',
       'Are we there yet?',
       'Plug-ins were blocked on this page.',
-      'Please try again later',
+      'Please try again later.',
       'God? Is that you?',
       'here come dat boi! o shit waddup!',
       'You must be this tall to ride this ride.',
